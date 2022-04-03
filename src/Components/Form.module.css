@@ -1,0 +1,31 @@
+.add {
+  /* width: 80%; */
+  /* border: 1px solid red; */
+  display: flex;
+  /* margin-bottom: 2rem; */
+  margin: 2rem 0;
+  /* background-color: aqua; */
+}
+.form {
+  height: 2.2rem;
+  width: 100%;
+  /* justify-content: space-around; */
+}
+.search {
+  width: 80%;
+  height: 40px;
+  font-size: 1.5rem;
+  font-weight: 900;
+  border: none;
+}
+.addButton {
+  cursor: pointer;
+  height: 40px;
+  align-items: center;
+  width: 60px;
+  margin-left: 2rem;
+  font-size: 1rem;
+}
+input {
+  width: 90%;
+}

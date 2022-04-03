@@ -1,0 +1,25 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 4px 0; */
+  margin: 1rem auto;
+  font-size: 2rem;
+  font-weight: 600;
+  /* border: 1px solid black; */
+}
+.results {
+  /* margin: 8px 0 8px 0; */
+  /* border: 1px solid green; */
+  margin-bottom: 5rem;
+}
+.buttons {
+  font-size: 20px;
+}
+.addButton {
+  cursor: pointer;
+  height: 40px;
+  align-items: center;
+  width: 60px;
+  margin-left: 0.5rem;
+  font-size: 1rem;
+}
